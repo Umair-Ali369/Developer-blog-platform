@@ -5,7 +5,7 @@ A modern **Developer Blog Platform** built with **React**, where blog posts are 
 ---
 
 ## 🚀 Live Demo
-https://your-dev-blog.vercel.app
+https://developer-blog-platform.vercel.app/
 
 ---
 
